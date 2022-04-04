@@ -16,6 +16,8 @@ Solvent names were dragged down to cover all applicable rows. For table 2, many 
 ## Folders
 Each folder, labeled Tables 1, 2 and 3, contains the relevant raw Excel files for the respective data table, a .csv file with all the compiled raw data (the file imported into Python), the script used to clean the data, and the finished data table.
 
+The folder entitled `finalized` contains notebooks that uses the cleaned data tables to generate inputs into OpenEye's Orion platform.
+
 
 ## Scripts
 The three scripts are very similar to each other with minor differences based on how the data within each table was formatted. No experimental methods were given for values in Table 2.
